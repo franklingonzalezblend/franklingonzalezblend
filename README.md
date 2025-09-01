@@ -7,8 +7,10 @@
 * .        .       .       .       *       .       .       ⭐        .       .       .       *       .       *       .  
 ```
 
-# 🚀 You are landing on my old GitHub account.
+# 👨‍💻 Welcome Blenders
 
-Glad you found this note, I already fixed up my rocket and took off with all my repositories. By the time you read this, I will have already landed at my new destination! 🧑‍🚀
+This GitHub now serves as my professional space at **Blend360**.  
+Here you’ll find projects, experiments, and technical work connected to my role.
 
-📍 New coordinates: [GitHub](https://github.com/franklinyulian)
+🔧 Focus areas: Data analysis, AWS, and scalable solutions.  
+🌐 Main profile (personal projects): [franklinyulian](https://github.com/franklinyulian)
